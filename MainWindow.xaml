@@ -1,0 +1,45 @@
+﻿<Window x:Class="MemoryGame_UPGRADED.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MemoryGame_UPGRADED"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid  x:Name="myGrid">
+        <Grid.Background>
+
+            <ImageBrush ImageSource="/Images/Winter.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <!--two rows declaration-->
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <!--four columns declaration-->
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image Grid.Row="0" Grid.Column="0"  Source="/Images/anglkiss.gif" Margin="20"/>
+        <Image Grid.Row="0" Grid.Column="1"  Source="/Images/anglkiss.gif" Margin="20"/>
+        <Image Grid.Row="0" Grid.Column="2"  Source="/Images/brownbear2_gothoney_lg_clr.gif" Margin="20"/>
+        <Image Grid.Row="0" Grid.Column="3"  Source="/Images/brownbear2_gothoney_lg_clr.gif" Margin="20"/>
+        <Image Grid.Row="1" Grid.Column="0"  Source="/Images/cactus_wilting_md_wht.gif" Margin="20"/>
+        <Image Grid.Row="1" Grid.Column="1"  Source="/Images/cactus_wilting_md_wht.gif" Margin="20"/>
+        <Image Grid.Row="1" Grid.Column="2"  Source="/Images/m3_login_he.png" Margin="20"/>
+        <Image Grid.Row="1" Grid.Column="3"  Source="/Images/m3_login_he.png" Margin="20"/>
+
+        <Button Grid.Row="0" Grid.Column="0"   Margin="20" Click="Btn_Click"/>
+        <Button Grid.Row="0" Grid.Column="1"   Margin="20" Click="Btn_Click"/>
+        <Button Grid.Row="0" Grid.Column="2"   Margin="20"  Click="Btn_Click"/>
+        <Button Grid.Row="0" Grid.Column="3"   Margin="20"  Click="Btn_Click"/>
+        <Button Grid.Row="1" Grid.Column="0"   Margin="20"  Click="Btn_Click"/>
+        <Button Grid.Row="1" Grid.Column="1"   Margin="20"  Click="Btn_Click"/>
+        <Button Grid.Row="1" Grid.Column="2"   Margin="20"  Click="Btn_Click"/>
+        <Button Grid.Row="1" Grid.Column="3"   Margin="20"  Click="Btn_Click"/>
+
+    </Grid>
+</Window>

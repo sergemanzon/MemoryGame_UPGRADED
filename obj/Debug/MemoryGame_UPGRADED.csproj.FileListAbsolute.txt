@@ -1,0 +1,15 @@
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\bin\Debug\MemoryGame_UPGRADED.exe.config
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\bin\Debug\MemoryGame_UPGRADED.exe
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\bin\Debug\MemoryGame_UPGRADED.pdb
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\obj\Debug\MemoryGame_UPGRADED.csproj.AssemblyReference.cache
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\obj\Debug\MainWindow.g.cs
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\obj\Debug\App.g.cs
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\obj\Debug\MemoryGame_UPGRADED_MarkupCompile.cache
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\obj\Debug\MemoryGame_UPGRADED_MarkupCompile.lref
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\obj\Debug\MainWindow.baml
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\obj\Debug\MemoryGame_UPGRADED.g.resources
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\obj\Debug\MemoryGame_UPGRADED.Properties.Resources.resources
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\obj\Debug\MemoryGame_UPGRADED.csproj.GenerateResource.cache
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\obj\Debug\MemoryGame_UPGRADED.csproj.CoreCompileInputs.cache
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\obj\Debug\MemoryGame_UPGRADED.exe
+C:\Applicatons\2025\DoritHishtolnumt\Dorit_MemoryGame_Upgraded\MemoryGame_UPGRADED\obj\Debug\MemoryGame_UPGRADED.pdb
