@@ -52,7 +52,8 @@ namespace MemoryGame_UPGRADED
                 {
                     int inx = findFreeBtn();//  ללא תמונה , (ללא תג), "נחפש מיקום של "כפתור פנוי ,"
                     ImgObj[inx].Source = bitmap;// נשים בו את התמונה 
-                    ImgObj[inx].Tag = imageNames[img];// ונשים ב - תג שלו את שם התמונה , לזיהוי  
+                    BtnObj[inx].Tag = imageNames[img];// ונשים ב - תג שלו את שם התמונה , לזיהוי  
+                    //הייתה פה שגיא עקב COPY PASTE 
 
                 }
                 imageNames.RemoveAt(img);
